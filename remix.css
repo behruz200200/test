@@ -1,0 +1,15 @@
+.umumiy{
+    justify-content: flex-end;
+    background-color: black;
+    height: 66px;
+     width: 100%;
+     border-radius: 2px;
+     box-shadow: 0 0 2px 0 rgb(0 35 90 / 6%);
+
+}
+.logo{
+ width: 32px;
+ height: 32px;
+ object-fit: contain;
+ vertical-align:middle; 
+}  
